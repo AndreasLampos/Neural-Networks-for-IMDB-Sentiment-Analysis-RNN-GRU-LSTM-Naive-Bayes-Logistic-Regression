@@ -116,7 +116,7 @@ Final metrics on the test set for the neural network models:
 
 The loss curves for the neural network models are displayed in the figure below:
 
-![Train/Validation Loss Comparison](RNN_Curves.png)
+![Train/Validation Loss Comparison](RNN/RNN_Curves.png)
 
 
 The loss curves for the neural network models are displayed in the figure below:
