@@ -119,7 +119,7 @@ The loss curves for the neural network models are displayed in the figure below:
 ![Train/Validation Loss Comparison](RNN/RNN_Curves.png)
 
 
-For more details, you are asked to read the AI Report here ![AI Report](RNN/RNN_Curves.png)
+For more details, you are asked to read the AI Report here ![AI Report](AI_REPORT_2.pdf)
 ========
 
 
